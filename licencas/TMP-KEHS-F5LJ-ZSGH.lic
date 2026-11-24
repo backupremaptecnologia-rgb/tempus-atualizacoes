@@ -3,12 +3,14 @@
  "dados": {
   "versao": 1,
   "id": "TMP-KEHS-F5LJ-ZSGH",
-  "emitida": "2026-11-24T19:49:49",
+  "emitida": "2026-11-24T19:52:01",
   "valida_ate": "2026-12-25",
   "situacao": "ATIVA",
   "motivo": "",
   "modulos": [
-   "*"
+   "download_nfse",
+   "consulta_empresas",
+   "rpa"
   ],
   "carencia_dias": 5,
   "url": "https://raw.githubusercontent.com/backupremaptecnologia-rgb/tempus-atualizacoes/main/licencas/TMP-KEHS-F5LJ-ZSGH.lic",
@@ -26,5 +28,5 @@
    "cidade": "NOVA SERRANA"
   }
  },
- "assinatura": "APwsV380EzqIB7aI6oEEyo8oTy+qvSvPw3JarZ1Nhp+xNuagDBNLaKKO8BQNIzauOjAUaJNJGkTibfyUKvMTDg=="
+ "assinatura": "Gjx/mALCO0JoSzebO93+dYJWhjML2gyAUe0LJyXk5pZxYbMUs7N6p4xA3iRb4yJDqLYM68CwghCNmOGYc1YqDg=="
 }
