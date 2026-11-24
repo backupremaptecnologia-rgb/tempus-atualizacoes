@@ -1,0 +1,30 @@
+{
+ "formato": "tempus-licenca",
+ "dados": {
+  "versao": 1,
+  "id": "TMP-KEHS-F5LJ-ZSGH",
+  "emitida": "2026-11-24T19:39:33",
+  "valida_ate": "2026-12-25",
+  "situacao": "ATIVA",
+  "motivo": "",
+  "modulos": [
+   "*"
+  ],
+  "carencia_dias": 5,
+  "url": "https://raw.githubusercontent.com/backupremaptecnologia-rgb/tempus-atualizacoes/main/licencas/TMP-KEHS-F5LJ-ZSGH.lic",
+  "faixas": {
+   "rpa": {
+    "faixa": 5,
+    "preco": "34.90"
+   }
+  },
+  "cobranca": {
+   "valor": "0.01",
+   "vencimento_dia": 5,
+   "pix_chave": "55447708000187",
+   "recebedor": "JEAN LUCAS GONTIJO FERREIRA",
+   "cidade": "NOVA SERRANA"
+  }
+ },
+ "assinatura": "XGZaIS2L6EG0jBMpqTwuuWNuJAwvRF7+f2LL6h5Wmy6c5DuPBkLvmN+N9jjjv0fO4A7fFyzBNSe+mK52hNWtBw=="
+}
