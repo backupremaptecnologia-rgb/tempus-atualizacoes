@@ -3,13 +3,12 @@
  "dados": {
   "versao": 1,
   "id": "TMP-3BFM-6YZP-EZAU",
-  "emitida": "2026-11-25T00:45:30",
-  "valida_ate": "2026-11-26",
+  "emitida": "2026-11-25T00:48:53",
+  "valida_ate": "2026-12-26",
   "situacao": "ATIVA",
   "motivo": "",
   "modulos": [
-   "consulta_empresas",
-   "rpa"
+   "*"
   ],
   "carencia_dias": 5,
   "url": "https://raw.githubusercontent.com/backupremaptecnologia-rgb/tempus-atualizacoes/main/licencas/TMP-3BFM-6YZP-EZAU.lic",
@@ -27,5 +26,5 @@
    "cidade": "NOVA SERRANA"
   }
  },
- "assinatura": "4IPfvntnv9y+LprUBeqRKLzsS2CxyN4bECmnAZq6EeEojRMuvIiecs0R9Ho0Cp7w072c3T38twZ40Pd3Y2soAw=="
+ "assinatura": "+UgzLoTGmrnqIaFj0jpOR6gl/Z2ISzt0kP4gh07BFMEtFHWUio5A/UOX6aD9jzmyjjr8sxlDX6p1IOtOuQj/CQ=="
 }
