@@ -3,8 +3,8 @@
  "dados": {
   "versao": 1,
   "id": "TMP-3BFM-6YZP-EZAU",
-  "emitida": "2026-11-25T11:01:09",
-  "valida_ate": "2026-12-26",
+  "emitida": "2026-11-25T18:11:05",
+  "valida_ate": "2030-12-26",
   "situacao": "ATIVA",
   "motivo": "",
   "modulos": [
@@ -13,19 +13,13 @@
   "carencia_dias": 5,
   "url": "https://raw.githubusercontent.com/backupremaptecnologia-rgb/tempus-atualizacoes/main/licencas/TMP-3BFM-6YZP-EZAU.lic",
   "escritorio": "8ee5471acab18328cc5963703e7ad42bbca7ac4830adbdbdf4a2fb1bfbe6a982",
-  "faixas": {
-   "rpa": {
-    "faixa": 5,
-    "preco": "34.90"
-   }
-  },
   "cobranca": {
-   "valor": "0.01",
+   "valor": "0.00",
    "vencimento_dia": 5,
    "pix_chave": "55447708000187",
    "recebedor": "JEAN LUCAS GONTIJO FERREIRA",
    "cidade": "NOVA SERRANA"
   }
  },
- "assinatura": "fITwyM3ZO6oDZKa2dfEIaAK3Pm0mFD6cK4PkqpLRbCLGJzw4NqWUB7y40P/3Ke25rd0JCuSBI3LyEufM13+pCw=="
+ "assinatura": "121u38fp7CdLBERjQAI+JAteOa9SVbWn1h4N8UA9kG0VNBh5CP1hupY8owrKRVnVYMCUDJDYVzAzmfSYdQmTDQ=="
 }
