@@ -3,7 +3,7 @@
  "dados": {
   "versao": 1,
   "id": "TMP-KEHS-F5LJ-ZSGH",
-  "emitida": "2026-11-25T08:49:24",
+  "emitida": "2026-11-25T08:50:22",
   "valida_ate": "2026-12-25",
   "situacao": "ATIVA",
   "motivo": "",
@@ -12,7 +12,7 @@
   ],
   "carencia_dias": 5,
   "url": "https://raw.githubusercontent.com/backupremaptecnologia-rgb/tempus-atualizacoes/main/licencas/TMP-KEHS-F5LJ-ZSGH.lic",
-  "escritorio": "8662a35fbdf0eec8d777ba379f3407c012169681ef67ee2bff0fe8cef66fccc2",
+  "escritorio": "2a58087987b82ee7e4eef78e613f796b463d9c22489483e609871405a24db734",
   "faixas": {
    "rpa": {
     "faixa": 5,
@@ -27,5 +27,5 @@
    "cidade": "NOVA SERRANA"
   }
  },
- "assinatura": "/NGL6LtpVExmcgBLg9dC/VP5pq0MbGHjo8CKemsIB8NG9al8EnuGVVw6EwhHXht3cequ4quMTIENsrP5BmeqAQ=="
+ "assinatura": "cE9W5xKtqJo/eG/OqwBkrSNJkgsqmFGpl0we/QVGXblAE41aaQH1wecpFweEaZNlCrHTAd+jmYmjibgc4OlGDg=="
 }
