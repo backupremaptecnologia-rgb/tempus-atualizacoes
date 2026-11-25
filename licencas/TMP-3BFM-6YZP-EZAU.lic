@@ -3,10 +3,10 @@
  "dados": {
   "versao": 1,
   "id": "TMP-3BFM-6YZP-EZAU",
-  "emitida": "2026-11-25T00:49:07",
+  "emitida": "2026-11-25T00:50:13",
   "valida_ate": "2026-12-26",
-  "situacao": "ATIVA",
-  "motivo": "",
+  "situacao": "SUSPENSA",
+  "motivo": "Mensalidade em atraso. Fale com o fornecedor.",
   "modulos": [
    "*"
   ],
@@ -26,5 +26,5 @@
    "cidade": "NOVA SERRANA"
   }
  },
- "assinatura": "WuET9pivqkRp0E2joXLH0Zcjlq7sDJAns3BuqxW98cPaNoMH2QtgsS/ymQ2ees3Ubz3yXqrzfQ4SteN60NzvDA=="
+ "assinatura": "nfpNBmMP6rdyHS61oBov+tLBxTEXBaneMsHpzhPQAH1QMaegoCXe/aonm2uSiJu1Zygr5F54INGZkDnDE1wHAQ=="
 }
