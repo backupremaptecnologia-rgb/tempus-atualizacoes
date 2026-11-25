@@ -1,0 +1,25 @@
+{
+ "formato": "tempus-licenca",
+ "dados": {
+  "versao": 1,
+  "id": "TMP-LMM4-V8JW-VUJE",
+  "emitida": "2026-11-25T18:18:48",
+  "valida_ate": "2030-12-31",
+  "situacao": "ATIVA",
+  "motivo": "",
+  "modulos": [
+   "*"
+  ],
+  "carencia_dias": 5,
+  "url": "https://raw.githubusercontent.com/backupremaptecnologia-rgb/tempus-atualizacoes/main/licencas/TMP-LMM4-V8JW-VUJE.lic",
+  "escritorio": "a2b0e745164c31bf476e5b5e51d8f5419865d5b6b4e5b17111d5c8a16c988bbf",
+  "cobranca": {
+   "valor": "0.00",
+   "vencimento_dia": 5,
+   "pix_chave": "55447708000187",
+   "recebedor": "JEAN LUCAS GONTIJO FERREIRA",
+   "cidade": "NOVA SERRANA"
+  }
+ },
+ "assinatura": "CvLaPF+6ZuFoxVmXH29CoxOKzjVVU90ESGqD9YT6SQosCB7AQDP6+X2dYHT2olG8sub+PuE/ubx1TSUPrH/CBg=="
+}
