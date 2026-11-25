@@ -3,12 +3,11 @@
  "dados": {
   "versao": 1,
   "id": "TMP-KEHS-F5LJ-ZSGH",
-  "emitida": "2026-11-25T08:53:04",
+  "emitida": "2026-11-25T08:53:42",
   "valida_ate": "2026-12-25",
   "situacao": "ATIVA",
   "motivo": "",
   "modulos": [
-   "consulta_empresas",
    "rpa"
   ],
   "carencia_dias": 5,
@@ -28,5 +27,5 @@
    "cidade": "NOVA SERRANA"
   }
  },
- "assinatura": "a17FiWVngMwZenD2qZHH9SPwZVDgrGUpXiFeAuaecRHcACkrv1eyh31jFUiLSoo8RSVBwFbeEldfS+HjJy26Cw=="
+ "assinatura": "5OwC8LtPPm5nnXPz0YR9VGGixMFAnSkItNX0OPO6og2bpt5T0duj1XxwpQG6KuyJd9ibt27yzgzcNlxBV/AvBg=="
 }
