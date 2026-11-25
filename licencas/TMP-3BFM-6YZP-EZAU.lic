@@ -3,15 +3,16 @@
  "dados": {
   "versao": 1,
   "id": "TMP-3BFM-6YZP-EZAU",
-  "emitida": "2026-11-25T00:52:17",
+  "emitida": "2026-11-25T10:42:01",
   "valida_ate": "2026-12-26",
-  "situacao": "ATIVA",
-  "motivo": "",
+  "situacao": "SUSPENSA",
+  "motivo": "Mensalidade em atraso. Fale com o fornecedor.",
   "modulos": [
    "*"
   ],
   "carencia_dias": 5,
   "url": "https://raw.githubusercontent.com/backupremaptecnologia-rgb/tempus-atualizacoes/main/licencas/TMP-3BFM-6YZP-EZAU.lic",
+  "escritorio": "8ee5471acab18328cc5963703e7ad42bbca7ac4830adbdbdf4a2fb1bfbe6a982",
   "faixas": {
    "rpa": {
     "faixa": 5,
@@ -26,5 +27,5 @@
    "cidade": "NOVA SERRANA"
   }
  },
- "assinatura": "G7XMjSevvYxDZ+AseRVnfD/t9G+SLQSKNpBE/Qo40pvSELG6M+NZx+7e4lfwmgz0w/9IiUwy4VO6LNuapKK6DA=="
+ "assinatura": "Cs+uyQkMqLQJQxrrpcNob9n6MktGYVTFZ4aoarzrfrWdMTr9UF7OVSNCd3N8WY01OfDp9RxpEFZDcBmzEnooAQ=="
 }
