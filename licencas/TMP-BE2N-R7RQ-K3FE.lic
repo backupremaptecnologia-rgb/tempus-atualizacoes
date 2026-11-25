@@ -1,0 +1,25 @@
+{
+ "formato": "tempus-licenca",
+ "dados": {
+  "versao": 1,
+  "id": "TMP-BE2N-R7RQ-K3FE",
+  "emitida": "2026-11-25T10:43:14",
+  "valida_ate": "2026-12-25",
+  "situacao": "ATIVA",
+  "motivo": "",
+  "modulos": [
+   "*"
+  ],
+  "carencia_dias": 3,
+  "url": "https://raw.githubusercontent.com/backupremaptecnologia-rgb/tempus-atualizacoes/main/licencas/TMP-BE2N-R7RQ-K3FE.lic",
+  "escritorio": "04ff1b775b6526a76e0b559972ad3b91cb8e85fcb4db9ef42f0341386641dbf1",
+  "cobranca": {
+   "valor": "0.00",
+   "vencimento_dia": 5,
+   "pix_chave": "55447708000187",
+   "recebedor": "JEAN LUCAS GONTIJO FERREIRA",
+   "cidade": "NOVA SERRANA"
+  }
+ },
+ "assinatura": "du/DBTZKi/+OkZnSSgOaqm7Ik6iqFzu9CTDaqPt2YMYTN9po5caN3sFy8zUar9izSJeqTes+GkcMODyEO1QmAQ=="
+}
