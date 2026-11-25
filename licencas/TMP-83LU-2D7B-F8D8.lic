@@ -3,15 +3,17 @@
  "dados": {
   "versao": 1,
   "id": "TMP-83LU-2D7B-F8D8",
-  "emitida": "2026-11-25T10:50:42",
+  "emitida": "2026-11-25T14:10:20",
   "valida_ate": "2026-12-25",
   "situacao": "ATIVA",
   "motivo": "",
   "modulos": [
+   "consulta_empresas",
    "rpa"
   ],
   "carencia_dias": 3,
   "url": "https://raw.githubusercontent.com/backupremaptecnologia-rgb/tempus-atualizacoes/main/licencas/TMP-83LU-2D7B-F8D8.lic",
+  "escritorio": "9063efbeb51dd1cf8a52fe411cc883c44cb7bfeb8c33ca564942715623518794",
   "faixas": {
    "rpa": {
     "faixa": 10,
@@ -26,5 +28,5 @@
    "cidade": "NOVA SERRANA"
   }
  },
- "assinatura": "eRi9PBKzpfsZzbNH8xiInDUVl4QZlA31QOU6E0XtzhsYA3+qQIsdilIpoK8FPNqnWVdhSNZFJJveWenqqf8IAQ=="
+ "assinatura": "HEjkpVr7oOhQ64W72rXVonRtYIMeSvhh10Z2KIK0TMegQGPyTuaK1fyRZ8oRIgNLwlgOt2+L2LfEvO070fMhAw=="
 }
