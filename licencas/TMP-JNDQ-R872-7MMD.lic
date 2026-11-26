@@ -1,0 +1,31 @@
+{
+ "formato": "tempus-licenca",
+ "dados": {
+  "versao": 1,
+  "id": "TMP-JNDQ-R872-7MMD",
+  "emitida": "2026-11-26T13:07:57",
+  "valida_ate": "2026-11-26",
+  "situacao": "ATIVA",
+  "motivo": "",
+  "modulos": [
+   "*"
+  ],
+  "carencia_dias": 1,
+  "url": "https://raw.githubusercontent.com/backupremaptecnologia-rgb/tempus-atualizacoes/main/licencas/TMP-JNDQ-R872-7MMD.lic",
+  "escritorio": "8719a28983f891e66665e8922ec69d71f89f5c08d3f10967b23cd531ed436a03",
+  "faixas": {
+   "rpa": {
+    "faixa": 5,
+    "preco": "34.90"
+   }
+  },
+  "cobranca": {
+   "valor": "174.50",
+   "vencimento_dia": 5,
+   "pix_chave": "55447708000187",
+   "recebedor": "JEAN LUCAS GONTIJO FERREIRA",
+   "cidade": "NOVA SERRANA"
+  }
+ },
+ "assinatura": "KROYZyHBgAXsyRIIFRFNScMsn9Noixkk2stge8X4DtifKepw4WbhTmAnilKU2wGhaoU1FqEOhb3tQrQdAq/SBg=="
+}
