@@ -3,7 +3,7 @@
  "dados": {
   "versao": 1,
   "id": "TMP-KEHS-F5LJ-ZSGH",
-  "emitida": "2026-11-26T13:09:24",
+  "emitida": "2026-11-26T13:09:28",
   "valida_ate": "2026-11-30",
   "situacao": "ATIVA",
   "motivo": "",
@@ -21,5 +21,5 @@
    "cidade": "NOVA SERRANA"
   }
  },
- "assinatura": "aqffb1LQsmvO0JS3f19LhJVnXvC/LsHJqwFh3vL+570k/HZ3+kW4rJGEDYPeuMx54A/fAzcbXMhej/PtfGRIBQ=="
+ "assinatura": "FJqAesW2zb+XcdCnEqe246IRIydxwgv6nh7/wpLqcYCqn/+hOujO3bTR7d1N+SW/HugkaKFz9qlzg2Q20odXDA=="
 }
